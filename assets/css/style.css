@@ -1,0 +1,62 @@
+*{
+    margin: 0 auto;
+}
+body{
+    background-image: url("../img/bodybg.jpg");
+    background-size: cover;
+
+}
+.container{
+  position: relative;
+    top: 100px;
+}
+.text-section{
+  position: relative;
+  top: 50px;
+}
+.text-section p{
+  text-align: justify;
+}
+.headline{
+    position: relative;
+    top: 60px;
+}
+.headline h2{
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+a.nav-item.nav-link{
+    padding: 12px;
+    border-radius: 4px;
+    /* padding-right: 51px; */
+    margin-right: 5px;
+    font-weight: 600;
+
+}
+
+/*Admin Page*/
+.btn-color {
+    background-color: #0e1c36;
+    color: #fff;
+  }
+.btn-color:hover{
+    background-color: #d5dcff;
+}
+  .profile-image-pic {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+  }
+  
+  .cardbody-color {
+    /* background-color: #b44848; */
+  }
+
+.card.my-5{
+  background-color: #ff000000;
+}
+  a {
+    text-decoration: none;
+  }
+  

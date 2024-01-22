@@ -1,0 +1,40 @@
+*{
+    margin: 0 auto;
+}
+body{
+    background-image: url("../img/memberdashboard.jpg");
+    background-size: cover;
+
+ 
+
+}
+.headline{
+    position: relative;
+    top: 400px;
+}
+.headline h2{
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+a.nav-item.nav-link{
+    padding: 12px;
+    border-radius: 4px;
+    /* padding-right: 51px; */
+    margin-right: 5px;
+    font-weight: 600;
+
+}
+
+.btn-color {
+    background-color: #0e1c36;
+    color: #fff;
+  }
+.btn-color:hover{
+    background-color: #d5dcff;
+}
+.viewTransectionTable table{
+    width: 90%;
+    position: relative;
+    top: 60px;
+}
